@@ -15,3 +15,5 @@ Jocul va avea o dificultate progresiva, astfel incat viteza cu care harta si juc
 se deplaseaza in jos va creste treptat pe parcursul jocului. Acesta va avea un scor final
 si va consta in numarul de linii parcurse de jucator si se va afisa la finalul jocului, dupa
 un mesaj de tip “Game Over!”, sub forma unui scrolling text pe matrice.
+
+Gameplay video: https://drive.google.com/file/d/1DLOVFRaGBM201vptbXVgMpiznBMt9XMb/view?usp=sharing
